@@ -1,0 +1,29 @@
+{
+    "name": "확장 카테고리 이벤트 명령블록 예제",
+    "description": "",
+    "dependencies": {
+        "core": "*",
+        "builder": "*",
+        "events": "*"
+    },
+    "files": [
+        "main.blocks",
+        "main.ts",
+        "README.md"
+    ],
+    "testFiles": [
+        "test.ts"
+    ],
+    "targetVersions": {
+        "branch": "stable2.1",
+        "tag": "v2.1.26",
+        "commits": "https://github.com/microsoft/pxt-minecraft/commits/014386bd11c0d0068b102ecb3c5250ff6b4c0ff1",
+        "target": "2.1.27",
+        "pxt": "12.1.17",
+        "targetId": "minecraft"
+    },
+    "supportedTargets": [
+        "minecraft"
+    ],
+    "preferredEditor": "blocksprj"
+}
